@@ -1,0 +1,39 @@
+{
+    "song" : [{
+        "id": 0,
+        "Title" : "Salamat Salamat",
+        "Artist": "Musikatha",
+        "Lyrics" : 
+        {
+            "Verse" : "Kung aking mamasdan ang kalawakan Hindi ko maunawaan Ang iyong dahilan kung bakit ako'y, Pinili mo't inalagaan",
+            "Refrain" : "Di ko kayang isipin, ni hindi ko kayang sukatin, Ang pag-ibig mo Hesus na iyong binigay sa akin...",
+            "Chorus" : "Salamat salamat oh Hesus sa pag-ibig mo, Walang ibang nagmahal sa akin ng katulad mo, Salamat salamat oh Hesus sa pag-ibig mo, Ako'y magsasaya sa piling mo."
+        }
+    },
+    {
+    "id": 1,
+    "Title" : "Tagumpay",
+    "Artist": "Victory Worship",
+    "Lyrics" : 
+        {
+            "Verse" : "Sa sigaw ng alon di mangangamba,Sa gitna ng dilim di ako mag-iisa ,Hindi matatakot hindi matinag ,Pagkat ikaw o Diyos ang aking pag-asa",
+            "Bridge" : "Narito na narito na,Ang tagumpay ay narito na",
+            "Chorus" : "Wala nang hahanapin pa,Pagkat o Diyos sapat ka na,Pag-ibig mo kanlungan ko ,Pangako mo sandigan ko"
+        }
+    },
+    {
+    "id": 2,
+    "Title" : "Send Us to the Nations",
+    "Artist": "Jarod Espy",
+    "Lyrics" : 
+        {
+            "Verse" : "Your voice is calling,Your drawing near,We are your servants,Lord take our fears",
+            "Verse2": "We'll feed the hungry,We'll cloth the poor,We lay our lives down,Come quickly lord",
+            "Bridge": "We will run,We will go,To the world to let them know,Jesus is the risen king,He is God eternally",
+            "PreChorus" : "And if our God is for us,How can we fail,In the power of Jesus we stand",
+            "Chorus" : "Send us to the nations,To the broken,Lead us to surrender,We will go"
+        }
+       }
+    ]
+}
+

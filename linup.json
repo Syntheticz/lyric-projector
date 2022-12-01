@@ -1,0 +1,25 @@
+{
+    "song" : [
+        {
+            "title" : "Hands To The Sky",
+            "artist": "Victory Worhsip",
+            "lyrics" : 
+            { 
+                "Verse_1" : "I'm waking up to Your glory \n Your mercy falls like the sun still rises\n Your grace is new every morning \n To light the world with the hope inside us",
+                "Verse_2" : "Our praises echo Your goodness \n We lift You up as You rain down on us\n We're overwhelmed by your freedom \n There's nothing like living in Your purpose",
+                "PreChorus" : "I hear the sound of a roarin' anthem burning with Your love\n Let every voice sing let every part of me\n Speak of all You've done",
+                "Chorus" : "I am alive \n You have made this heart brand new\n Hands to the sky pouring out my love for You",
+                "Bridge" : "I'm alive 'cause You're alive Forever I will shine Your light\n I'm alive 'cause You're alive You have opened up my eyes"
+            }
+    },
+        {
+            "title" : "Higit pa sa Buhay",
+            "artist": "Musikatha",
+            "lyrics" : 
+            { 
+                "Verse_1" : "Ang pagkakataong ika'y kapiling ko Hindi 'pagpapalit sa pilak o ginto\n Wala nang papantay Wala nang hihigit sa'yo oh \n Sa aking pagsamba Alay kailanpaman Karapat-dapat ka't Sapat nang dahilan\n Wala nang papantay Wala nang hihigit sa'yo oh",
+                "Chorus" : "Ang 'yong galak Aking lakas Pangako mo'y Yaman kong tunay\n Pag-asa ko'y Tanging sa'yo Pag-ibig mo'y Higit pa sa buhay"
+            }
+        }
+    ]
+}
